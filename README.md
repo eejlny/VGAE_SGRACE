@@ -16,7 +16,15 @@ Based on https://link.springer.com/article/10.1007/s00521-025-11357-5
 
 
 
-For a quick run just do:
+You need to install PYGOD libraries:
+
+
+
+https://github.com/pygod-team/pygod
+
+
+
+Then, for a quick run just do:
 
 
 
