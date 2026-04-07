@@ -38,6 +38,10 @@ python3 gae.py
 
 Currently the variational tests (beta > 0) do not outperform the non-variational (beta = 0)
 
+Example of anomaly scores with 1-bit precision using the SGRACE accelerator.
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/6be14681-fdb5-4fbe-8183-998b506e0d67" />
+
 
 
 Best AUC results measured with beta = 0 for considered datasets:
