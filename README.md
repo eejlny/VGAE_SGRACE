@@ -8,7 +8,7 @@ Graph Variational Autoencoder for anomaly detection on graphs
 
 
 
-Combines GAT/GCN layers and injects variability into the model defined by the beta parameter. 
+Combines GAT/GCN layers and injects variability into the model defined by the beta parameter. The following picture shows a possible GNN configuration.
 
 
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/112b5c09-0860-4e3e-bf37-e9269ed7c16e" />
@@ -38,7 +38,7 @@ python3 gae.py
 
 Currently the variational tests (beta > 0) do not outperform the non-variational (beta = 0)
 
-Example of anomaly scores with 1-bit precision using the SGRACE accelerator.
+Example of anomaly scores with 1-bit precision using the SGRACE accelerator (blue normal/red abnormal).
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/6be14681-fdb5-4fbe-8183-998b506e0d67" />
 
