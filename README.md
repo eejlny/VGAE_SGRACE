@@ -2,7 +2,7 @@
 
 
 
-Graph Variational Autoencoder for anomaly detection on graphs
+Graph Variational Autoencoder for anomaly detection on graphs with SGRACE layers for hardware acceleration. 
 
 
 
