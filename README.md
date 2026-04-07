@@ -11,7 +11,7 @@ Graph Variational Autoencoder for anomaly detection on graphs
 Combines GAT/GCN layers and injects variability into the model defined by the beta parameter. 
 
 
-<img width="1095" height="590" alt="image" src="https://github.com/user-attachments/assets/112b5c09-0860-4e3e-bf37-e9269ed7c16e" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/112b5c09-0860-4e3e-bf37-e9269ed7c16e" />
 
 
 
