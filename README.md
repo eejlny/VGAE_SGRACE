@@ -1,14 +1,14 @@
 # VGAE\_SGRACE
 
 
+Project exploring Graph Variational Autoencoder for anomaly detection on graphs with SGRACE layers for hardware acceleration.
 
-Graph Variational Autoencoder for anomaly detection on graphs with SGRACE layers (https://ieeexplore.ieee.org/document/11108959/https://github.com/eejlny/SGRACEx1) for hardware acceleration. 
+SGRACE paper: https://ieeexplore.ieee.org/document/11108959/
+
+SGRACE github: https://github.com/eejlny/SGRACEx1  
 
 
-
-
-
-Combines GAT/GCN layers and injects variability into the model defined by the beta parameter. The following picture shows a possible GNN configuration.
+GVAE Combines GAT/GCN layers and injects variability into the model defined by the beta parameter. The following picture shows a possible GNN configuration.
 
 
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/112b5c09-0860-4e3e-bf37-e9269ed7c16e" />
